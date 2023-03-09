@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: rgb(11, 122, 226);
+    color: whitesmoke;
+    
+}
+.nav-link{
+    padding: 20px;
+    margin: 5px;
+
+}
+.nav-link{
+    padding: 30px;
+   
+}
+.navbar-nav{
+    margin-left: 30%;
+}
+.navbar{
+    position: sticky;
+    top: 100px;
+   
+    z-index: 100;
+}
